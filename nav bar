@@ -101,6 +101,7 @@ nav{
 .nav-list.active {
     transform: translateX(0);
 }
+}
 @keyframes navLinkFade{
     from {
         opacity: 0;
